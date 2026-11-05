@@ -1,0 +1,10 @@
+Bob, 0.254
+Sam, 0.312
+Tom, 0.125
+Wilson, 0.450
+Frank, 0.333
+Joshua, 0.289
+Peter, 0.210
+Jacob, 0.375
+Mark, 0.290
+Jose, 0.412
